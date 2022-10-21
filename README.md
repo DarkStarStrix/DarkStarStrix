@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Javascript 
 - 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 
 - 💞️ I’m looking to collaborate on SQL projects
 - 
