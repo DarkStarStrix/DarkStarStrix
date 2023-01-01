@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @DarkStarStrix
-- 👀 I’m interested in learning python 
-- 🌱 I’m currently learning Python
