@@ -5,7 +5,7 @@
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DarkStarStrix&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStarStrix&langs_count=5&theme=tokyonight)]()
+<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarkStarStrix&theme=react&line_height=40&hide=css"/> </a>
 
  
 ###
