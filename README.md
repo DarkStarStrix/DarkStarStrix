@@ -5,7 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkStarStrix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DarkStarStrix&count_private=true&theme=tokyonight&showicons=true)]()
-
  
 ###
