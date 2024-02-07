@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h2>
 
 <div align="center">
-  <img height="200" src=""C:\Users\kunya\OneDrive\Pictures\particles.gif"" />
+  <img height="200" src="particles.gif" />
 </div>
 
 ![Glory-To-Mankind](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f)
