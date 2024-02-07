@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h2>
 
 <p align="center">
-  <img src=""C:\Users\kunya\OneDrive\Pictures\particles.gif"">
+  <img src="C:\Users\kunya\OneDrive\Pictures\particles.gif" alt="particles">
 </p>
 
 
