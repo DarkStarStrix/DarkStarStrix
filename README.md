@@ -1,9 +1,7 @@
 <h2 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h2>
 
 <div align="center">
-  <p>
-   ![particles](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3ef33a29-45b8-4bb9-b835-1df67bb9d9bd)
-  </p>
+   <img="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3ef33a29-45b8-4bb9-b835-1df67bb9d9bd"/>
 </div>
 
 ![Glory-To-Mankind](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f)
@@ -18,11 +16,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/DarkStarStrix/DarkStarStrix/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
