@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    (https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3e083918-92bf-4666-8374-146c0775d2e5)
+   ![particles](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3ef33a29-45b8-4bb9-b835-1df67bb9d9bd)
   </p>
 </div>
 
