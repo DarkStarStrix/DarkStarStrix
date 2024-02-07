@@ -1,7 +1,9 @@
 <h2 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h2>
 
 <div align="center">
-  ![particles](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3e083918-92bf-4666-8374-146c0775d2e5)
+  <p>
+    (https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/3e083918-92bf-4666-8374-146c0775d2e5)
+  </p>
 </div>
 
 ![Glory-To-Mankind](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f)
