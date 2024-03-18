@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h1>
 
-![particles](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/aa8567a4-c059-4eb7-b31d-b49d19b292a5)
+<p align="center">
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/aa48a5ed-0192-4337-bf8b-3b34bbb2cae6" alt="particles">
+</p>
 
 
-![Glory-To-Mankind](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f)
+<img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f" />
 
 
 ###
@@ -78,15 +80,15 @@
   <img src="https://skillicons.dev/icons?i=idea" height="41" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="41" alt="stackoverflow logo"  />
-  <img width="12" />
+  <img width="12" /
   <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="41" alt="webpack logo"  />
   <img width="12" />
-  <img src="![qiskit](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/df83a21b-f933-4931-a0c1-5a483704cda4)
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="41" alt="markdown logo"  />
-  ![Qutip](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/588f18e3-7216-4e0c-9460-0c4a0d2680b5)
-
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9a92eb92-0292-4c22-ba0f-ff278cea5df6" height="41" alt="Qiskit"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/5337bf3a-5d17-4481-a618-652e3f78770b" height="41" alt="QuTIP"/>
+  <img width="12" />
 </div>
 
 ###
