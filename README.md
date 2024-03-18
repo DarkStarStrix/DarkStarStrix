@@ -83,7 +83,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="41" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="41" alt="markdown logo"  />
+  <img src="![qiskit](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/df83a21b-f933-4931-a0c1-5a483704cda4)
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="41" alt="markdown logo"  />
+  ![Qutip](https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/588f18e3-7216-4e0c-9460-0c4a0d2680b5)
+
 </div>
 
 ###
