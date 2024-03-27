@@ -89,6 +89,14 @@
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/5337bf3a-5d17-4481-a618-652e3f78770b" height="41" alt="QuTIP"/>
   <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/dc8ffecf-6a7b-44de-9170-60c3e7a0bc09" height="41" alt="Plotly"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/237a403b-edc1-402f-9275-d4e33d727473" height="41" alt="Numpy"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/85af4120-e870-4944-b825-c6d68a5d1fcb" height="41" alt="Pandas"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/f1a18a3a-4cda-432b-890b-593ce49efcbc" height="41" alt="Qubit"/>
+  <img width="12" />
 </div>
 
 ###
