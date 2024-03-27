@@ -97,6 +97,14 @@
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/f1a18a3a-4cda-432b-890b-593ce49efcbc" height="41" alt="Qubit"/>
   <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/36b8d756-a48d-4745-afd7-a03c21a72b4a" height="41" alt="Github-Copilot"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/c5e28e54-0397-491a-963f-1fe01466a15b" height="41" alt="ChatGpt"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/e4dea751-6653-486a-b814-a8f699c409c8" height="41" alt="Atom"/>
+  <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/48e851a3-a723-491f-9722-1c2db22102c6" height="41" alt="Industry 4.0"/>
+  <img width="12" />
 </div>
 
 ###
