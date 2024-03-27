@@ -105,6 +105,8 @@
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/48e851a3-a723-491f-9722-1c2db22102c6" height="41" alt="Industry 4.0"/>
   <img width="12" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/67c31043-c30c-4b38-acfe-adb9a911ffeb" height="41" alt="Writerside"/>
+  <img width="12" />
 </div>
 
 ###
