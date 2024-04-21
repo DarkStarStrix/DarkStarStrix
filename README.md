@@ -17,6 +17,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<a href="https://gitroll.io/profile/ub6lfmQZWuKhVyWyUAwntcWetBf52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ub6lfmQZWuKhVyWyUAwntcWetBf52" height="600" alt="GitRoll Profile Badge"/></a>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
