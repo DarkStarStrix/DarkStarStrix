@@ -104,8 +104,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arch" height="41" alt="arch"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Autocad" height="41" alt="Autocad"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="41" alt="linux"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=elixir" height="41" alt="elixir"  />
