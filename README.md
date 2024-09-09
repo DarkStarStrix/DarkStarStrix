@@ -81,8 +81,6 @@
   <img src="https://skillicons.dev/icons?i=idea" height="41" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="41" alt="stackoverflow logo"  />
-  <img width="12" /
-  <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="41" alt="webpack logo"  />
   <img width="12" />
@@ -100,11 +98,37 @@
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/c5e28e54-0397-491a-963f-1fe01466a15b" height="41" alt="ChatGpt"/>
   <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/e4dea751-6653-486a-b814-a8f699c409c8" height="41" alt="Atom"/>
-  <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/48e851a3-a723-491f-9722-1c2db22102c6" height="41" alt="Industry 4.0"/>
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/67c31043-c30c-4b38-acfe-adb9a911ffeb" height="41" alt="Writerside"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="41" alt="arch"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=Autocad" height="41" alt="Autocad"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="41" alt="linux"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elixir" height="41" alt="elixir"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="41" alt="githubactions"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="41" alt="latex"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="41" alt="githubactions"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=zig" height="41" alt="zig"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=atom" height="41" alt="atom"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="41" alt="fastapi"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pkl" height="41" alt="pkl"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="41" alt="powershell"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="41" alt="windows"  />
   <img width="12" />
 </div>
 
