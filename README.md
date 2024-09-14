@@ -112,8 +112,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="41" alt="latex"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="41" alt="githubactions"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=zig" height="41" alt="zig"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel"  />
