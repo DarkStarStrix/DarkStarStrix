@@ -91,6 +91,7 @@
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/dc8ffecf-6a7b-44de-9170-60c3e7a0bc09" height="41" alt="Plotly"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="41" alt="numpy"/>
+  <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/85af4120-e870-4944-b825-c6d68a5d1fcb" height="41" alt="Pandas"/>
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/67c31043-c30c-4b38-acfe-adb9a911ffeb" height="41" alt="Writerside"/>
