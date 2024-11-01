@@ -90,15 +90,8 @@
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/dc8ffecf-6a7b-44de-9170-60c3e7a0bc09" height="41" alt="Plotly"/>
   <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/237a403b-edc1-402f-9275-d4e33d727473" height="41" alt="Numpy"/>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="41" alt="numpy"/>
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/85af4120-e870-4944-b825-c6d68a5d1fcb" height="41" alt="Pandas"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/f1a18a3a-4cda-432b-890b-593ce49efcbc" height="41" alt="Qubit"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/c5e28e54-0397-491a-963f-1fe01466a15b" height="41" alt="ChatGpt"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/48e851a3-a723-491f-9722-1c2db22102c6" height="41" alt="Industry 4.0"/>
   <img width="12" />
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/67c31043-c30c-4b38-acfe-adb9a911ffeb" height="41" alt="Writerside"/>
   <img width="12" />
@@ -125,6 +118,8 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="41" alt="powershell"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="41" alt="windows"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="41" alt="terraform" />
   <img width="12" />
 </div>
 
