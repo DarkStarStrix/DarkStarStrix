@@ -13,6 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkStarStrix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=DarkStarStrix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/689bfb686e5b7f54edabaa1a?variant=dark" alt="roadmap.sh"/></a>
   <img src="https://github-profile-trophy.vercel.app?username=DarkStarStrix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="DarkStarStrix_repos.png" alt="GitHub Contributions" />
@@ -122,7 +123,7 @@
   <img src="https://skillicons.dev/icons?i=windows" height="41" alt="windows"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=terraform" height="41" alt="terraform" />
-  <img width="12" />
+  <img width="12" /
 </div>
 
 ###
