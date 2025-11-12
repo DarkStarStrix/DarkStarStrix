@@ -1,129 +1,44 @@
-<h1 align="left">Hi 👋! My name is Allan and I'm a Technomancer</h1>
+<h1 align="left">Hi I'm Allan — Technomancer of Systems, Code</h1>
 
 <p align="center">
   <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/aa48a5ed-0192-4337-bf8b-3b34bbb2cae6" alt="particles">
 </p>
 
-
-<img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f" />
-
+<p align="center">
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9631273c-4568-459c-a720-1cfd71543f8f" alt="main banner">
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkStarStrix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DarkStarStrix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/689bfb686e5b7f54edabaa1a?variant=dark" alt="roadmap.sh"/></a>
-  <img src="https://github-profile-trophy.vercel.app?username=DarkStarStrix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="DarkStarStrix_repos.png" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkStarStrix&layout=compact&theme=dracula&card_width=320" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=DarkStarStrix&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streaks" />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/689bfb686e5b7f54edabaa1a?variant=dark" height="150" alt="roadmap.sh"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkStarStrix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
-<a href="https://gitroll.io/profile/ub6lfmQZWuKhVyWyUAwntcWetBf52" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ub6lfmQZWuKhVyWyUAwntcWetBf52" alt="GitRoll Profile Badge"/></a>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="41" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="41" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="41" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="41" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="41" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="41" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="41" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="41" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="41" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="41" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="41" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="41" alt="r logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="41" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="41" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="41" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="41" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="41" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="41" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="41" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="41" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="41" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="41" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="41" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="41" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/9a92eb92-0292-4c22-ba0f-ff278cea5df6" height="41" alt="Qiskit"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/5337bf3a-5d17-4481-a618-652e3f78770b" height="41" alt="QuTIP"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/dc8ffecf-6a7b-44de-9170-60c3e7a0bc09" height="41" alt="Plotly"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="41" alt="numpy"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/85af4120-e870-4944-b825-c6d68a5d1fcb" height="41" alt="Pandas"/>
-  <img width="12" />
-  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/67c31043-c30c-4b38-acfe-adb9a911ffeb" height="41" alt="Writerside"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="41" alt="arch"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="41" alt="linux"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=elixir" height="41" alt="elixir"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="41" alt="githubactions"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="41" alt="latex"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zig" height="41" alt="zig"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="41" alt="vercel"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="41" alt="atom"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="41" alt="fastapi"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pkl" height="41" alt="pkl"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="41" alt="powershell"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="41" alt="windows"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="41" alt="terraform" />
-  <img width="12" /
-</div>
+<a href="https://gitroll.io/profile/ub6lfmQZWuKhVyWyUAwntcWetBf52" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/ub6lfmQZWuKhVyWyUAwntcWetBf52" alt="GitRoll Profile Badge"/>
+</a>
 
 ###
+
+<div align="center">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="41" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="41" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="C" />
+  <img src="https://skillicons.dev/icons?i=rust" height="41" alt="Rust" />
+
+  <!-- Systems & Workflow -->
+  <img src="https://skillicons.dev/icons?i=linux" height="41" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" height="41" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=docker" height="41" alt="Docker" />
+
+  <!-- ML / Research Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="41" alt="NumPy" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/85af4120-e870-4944-b825-c6d68a5d1fcb" height="41" alt="Pandas" />
+  <img src="https://github.com/DarkStarStrix/DarkStarStrix/assets/108637439/dc8ffecf-6a7b-44de-9170-60c3e7a0bc09" height="41" alt="Plotly" />
+</div>
