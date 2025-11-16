@@ -18,10 +18,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
-<a href="https://gitroll.io/profile/ub6lfmQZWuKhVyWyUAwntcWetBf52" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/ub6lfmQZWuKhVyWyUAwntcWetBf52" alt="GitRoll Profile Badge"/>
-</a>
-
 ###
 
 <div align="center">
