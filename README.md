@@ -11,10 +11,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkStarStrix&layout=compact&theme=dracula&card_width=320" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=DarkStarStrix&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streaks" />
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/689bfb686e5b7f54edabaa1a?variant=dark" height="150" alt="roadmap.sh"/></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkStarStrix&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="GitHub Trophies" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkStarStrix&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
